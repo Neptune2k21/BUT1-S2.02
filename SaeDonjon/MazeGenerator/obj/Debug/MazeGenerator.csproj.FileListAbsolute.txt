@@ -1,0 +1,15 @@
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\bin\Debug\MazeGenerator.exe
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\bin\Debug\MazeGenerator.pdb
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.csproj.AssemblyReference.cache
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\View\MazeGeneratorView.g.cs
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\App.g.cs
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator_MarkupCompile.cache
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator_MarkupCompile.lref
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\View\MazeGeneratorView.baml
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.g.resources
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.Properties.Resources.resources
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.csproj.GenerateResource.cache
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.exe
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\MazeGenerator.pdb
+C:\Users\m_cis\Downloads\MazeGenerator-master\MazeGenerator-master\MazeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
