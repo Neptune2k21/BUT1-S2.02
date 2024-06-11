@@ -13,3 +13,7 @@ L’objectif de ce projet était de créer un générateur aléatoire de donjons
 **Le labyrinthe Imparfait**
 
 ![image](https://github.com/Neptune2k21/BUT1-S2.02/assets/116343729/94f8add1-81a1-43f4-8020-7cbb4569725b)
+
+## Contributors
+- [Ethan](https://github.com/ethan-hgt)
+- [Yram](https://github.com/JusDeFruits1)
